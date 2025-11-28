@@ -1,6 +1,9 @@
 # Mandilah-Singapura: Slightly Unhinged Currency Analysis 
 *(Because someone has to figure out whether the Ringgit is finally going to grow up or keep acting like that cousin who still owes you RM50 from 2012)*
 
+<img width="1440" height="900" alt="Screenshot 2025-11-28 at 16 19 43" src="https://github.com/user-attachments/assets/1bafafb2-278e-410f-a0ee-d5c96cc038cf" />
+
+
 ### Project Tagline  
 "Tracking two currencies that are basically siblings who refuse to admit they look alike."
 
